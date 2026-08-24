@@ -21,10 +21,8 @@ jobs:
           user: Manoel-Fr
           template: classic
           config_timezone: America/Sao_Paulo
-          config_theme: dark
-          base: header, activity, community, repositories, metadata
+          base: header, activity
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
