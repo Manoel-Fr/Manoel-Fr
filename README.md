@@ -2,13 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:6DB33F&height=200&section=header&text=Manoel%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Developer;Salesforce+%7C+Apex+%2B+LWC;Docker+%7C+AWS;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A1E0&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Java+%2B+Spring+Boot+Developer;Salesforce+%7C+Apex+%2B+LWC;Docker+%7C+AWS;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=Manoel-Fr&style=flat-square&color=00A1E0" alt="profile views"/>
 
 </div>
 
 Curto pegar um processo travado e transformar em automação de verdade. No dia a dia é **Salesforce** (Apex/LWC), mas quando o problema pede outra ferramenta, viro pro **Java/Spring Boot**, empacoto com **Docker** e subo na **AWS**.
+
+<div align="center">
+
+|  |  |
+|---|---|
+| 👤 **Nome** | Manoel Ferreira |
+| 💼 **Cargo** | Desenvolvedor Full Stack |
+| 🎯 **Foco** | Salesforce (Apex/LWC) + Java/Spring Boot |
+| 📦 **Infra** | Docker + AWS |
+| 🌎 **Base** | Brasil |
+
+</div>
 
 <div align="center">
 
@@ -22,9 +34,9 @@ Curto pegar um processo travado e transformar em automação de verdade. No dia 
 
 <div align="center">
 
-### 🔥 Streak
+### 📊 Métricas
 
-<img src="https://streak-stats.demolab.com/?user=Manoel-Fr&theme=tokyonight&hide_border=true&cache_bust=2" alt="streak stats"/>
+<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/main/metrics.svg" alt="métricas do github"/>
 
 ### 🐍 Contribuições
 
