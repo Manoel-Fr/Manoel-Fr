@@ -12,22 +12,13 @@ Curto pegar um processo travado e transformar em automação de verdade. No dia 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1625,100:1a1625&height=55&text=Insights%20%26%20Atividade&fontSize=20&fontColor=C4B5FD&fontAlignY=55" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,salesforce,js,html,css,mysql,postman&theme=dark" height="52"/>
 
-<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/main/metrics.svg" alt="métricas do github" width="100%"/>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake-purple.svg" alt="snake animation" width="100%"/>
 
 <br><br>
-
-<sub>🛠️&nbsp; STACK</sub>
-
-<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,salesforce,js,html,css,mysql,postman&theme=dark" height="36"/>
-
-<br><br>
-
-<sub>📫&nbsp; CONECTAR</sub>
-<br>
 
 <a href="https://www.linkedin.com/in/manoel-ferreira-rocha-filho-b091482ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1625?style=flat-square&logo=linkedin&logoColor=C4B5FD"/></a>
 <a href="https://instagram.com/juninnn.fr" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1625?style=flat-square&logo=instagram&logoColor=C4B5FD"/></a>
