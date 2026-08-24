@@ -6,10 +6,6 @@
 
 <sub><img src="https://komarev.com/ghpvc/?username=Manoel-Fr&style=flat-square&color=4C1D95" alt="profile views"/></sub>
 
-<br>
-
-Curto pegar um processo travado e transformar em automação de verdade. No dia a dia é **Salesforce** (Apex/LWC), mas quando o problema pede outra ferramenta, viro pro **Java/Spring Boot**, empacoto com **Docker** e subo na **AWS**.
-
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,salesforce,js,html,css,mysql,postman&theme=dark" height="52"/>
