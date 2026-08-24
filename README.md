@@ -1,67 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:6DB33F&height=200&section=header&text=Manoel%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,50:4c1d95,100:0d0b14&height=220&text=Manoel%20Ferreira&fontSize=44&fontColor=E9D5FF&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descAlignY=62&descSize=22&descColor=C4B5FD&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A1E0&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Java+%2B+Spring+Boot+Developer;Salesforce+%7C+Apex+%2B+LWC;Docker+%7C+AWS;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=560&lines=Salesforce+%7C+Apex+%2B+LWC;Java+%2B+Spring+Boot;Docker+%2B+AWS" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=Manoel-Fr&style=flat-square&color=00A1E0" alt="profile views"/>
+<sub><img src="https://komarev.com/ghpvc/?username=Manoel-Fr&style=flat-square&color=4C1D95" alt="profile views"/></sub>
 
-</div>
+<br><br>
 
 Curto pegar um processo travado e transformar em automação de verdade. No dia a dia é **Salesforce** (Apex/LWC), mas quando o problema pede outra ferramenta, viro pro **Java/Spring Boot**, empacoto com **Docker** e subo na **AWS**.
 
-<div align="center">
+<br>
 
-|  |  |
-|---|---|
-| 👤 **Nome** | Manoel Ferreira |
-| 💼 **Cargo** | Desenvolvedor Full Stack |
-| 🎯 **Foco** | Salesforce (Apex/LWC) + Java/Spring Boot |
-| 📦 **Infra** | Docker + AWS |
-| 🌎 **Base** | Brasil |
+<table align="center" width="92%">
+<tr><td align="center">
 
-</div>
+<h3>🛠️&nbsp;&nbsp;Stack</h3>
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,salesforce&theme=dark" height="52"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=js,html,css,mysql,postman&theme=dark" height="52"/>
 
-<div align="center">
-
-### 🛠️ Stack
-
-<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,salesforce,js,html,css,mysql,postman&theme=dark" alt="stack icons"/>
-
-</div>
+</td></tr>
+</table>
 
 <br>
 
-<div align="center">
+<table align="center" width="92%">
+<tr><td align="center">
 
-### 📊 Métricas
+<h3>📊&nbsp;&nbsp;Insights</h3>
+<br>
+<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/main/metrics.svg" alt="métricas do github" width="100%"/>
+<br><br>
+<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake-purple.svg" alt="snake animation" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/main/metrics.svg" alt="métricas do github"/>
+</td></tr>
+</table>
 
-### 🐍 Contribuições
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<table align="center" width="92%">
+<tr><td align="center">
 
-</div>
-
-<div align="center">
-
-### 📫 Vamos conectar
+<h3>📫&nbsp;&nbsp;Vamos conectar</h3>
+<br>
 
 <a href="https://www.linkedin.com/in/manoel-ferreira-rocha-filho-b091482ab" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/juninnn.fr" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:ma201800927@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</td></tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:00A1E0&height=100&section=footer" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,50:4c1d95,100:0d0b14&height=90" width="100%"/>
+
+</div>
