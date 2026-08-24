@@ -8,13 +8,7 @@
 
 </div>
 
-```yaml
-manoel:
-  cargo: Desenvolvedor Full Stack
-  foco: Salesforce (Apex/LWC) + integrações Java/Spring Boot
-  infra: Docker containers rodando na AWS
-  modo: sempre aprendendo algo novo
-```
+Curto pegar um processo travado e transformar em automação de verdade. No dia a dia é **Salesforce** (Apex/LWC), mas quando o problema pede outra ferramenta, viro pro **Java/Spring Boot**, empacoto com **Docker** e subo na **AWS**.
 
 <div align="center">
 
@@ -30,11 +24,15 @@ manoel:
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com/?user=Manoel-Fr&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=Manoel-Fr&theme=tokyonight&hide_border=true&cache_bust=2" alt="streak stats"/>
 
-### 🐍 Timeline de Contribuições
+### 🐍 Contribuições
 
-<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -55,4 +53,3 @@ manoel:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:00A1E0&height=100&section=footer" width="100%"/>
-
