@@ -1,69 +1,58 @@
 <div align="center">
 
-# Olá, eu sou o Manoel 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:6DB33F&height=200&section=header&text=Manoel%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Developer;Salesforce+%7C+Apex+%2B+LWC;Docker+%7C+AWS;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Developer;Salesforce+%7C+Apex+%2B+LWC;Docker+%7C+AWS;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=Manoel-Fr&style=for-the-badge&color=00A1E0" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Manoel-Fr&style=flat-square&color=00A1E0" alt="profile views"/>
 
 </div>
 
----
+```yaml
+manoel:
+  cargo: Desenvolvedor Full Stack
+  foco: Salesforce (Apex/LWC) + integrações Java/Spring Boot
+  infra: Docker containers rodando na AWS
+  modo: sempre aprendendo algo novo
+```
 
-### 🧑‍💻 Sobre mim
-
-- 🔭 Trabalho com **Salesforce** (Apex/LWC) e integrações backend em **Java / Spring Boot**
-- 🐳 Empacoto e publico serviços com **Docker**, hospedados na **AWS**
-- 🌱 Sempre explorando novas stacks e boas práticas de arquitetura
-- 📫 Me encontra pelas redes lá embaixo 👇
-
----
+<div align="center">
 
 ### 🛠️ Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=fot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badr=white"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-baite"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-thelor=white"/>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,salesforce,js,html,css,mysql,postman&theme=dark" alt="stack icons"/>
 
 </div>
 
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/apicons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?usernametheme=tokyonight&hide_border=true&langs_count=8"/>
+### 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=Manoel-Fr&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+### 🐍 Timeline de Contribuições
+
+<img src="https://raw.githubusercontent.com/Manoel-Fr/Manoel-Fr/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
----
-
-### 📫 Social
-
 <div align="center">
 
+### 📫 Vamos conectar
+
+<a href="https://www.linkedin.com/in/manoel-ferreira-rocha-filho-b091482ab" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://instagram.com/juninnn.fr" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:ma201800927@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-thor=white">
-</a>
-<a href="https://www.linkedin.com/in/manoel-ferreira-rocha-filho-b0
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:00A1E0&height=100&section=footer" width="100%"/>
+
